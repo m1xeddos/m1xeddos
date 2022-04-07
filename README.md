@@ -1,4 +1,4 @@
-### Hi! I`m front-end developer from russia 👨‍💻
+### Hi! I`m developer from Ukraine 👨‍💻
 
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
